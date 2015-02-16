@@ -19,7 +19,8 @@ namespace WindowsFormsApplication6
 
         private void test_button_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("hellow," + DateTime.Now.ToString());
+            MessageBox.Show("hello," + DateTime.Now.ToString());
+            MessageBox.Show("추가멧세지");
         }
     }
 }
