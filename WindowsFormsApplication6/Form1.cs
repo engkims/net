@@ -21,6 +21,7 @@ namespace WindowsFormsApplication6
         {
             MessageBox.Show("Hello," + DateTime.Now.ToString());
             MessageBox.Show("추가멧세지 Kims");
+            MessageBox.Show("난 할수 있다.");
         }
     }
 }
